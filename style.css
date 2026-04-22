@@ -1,0 +1,42 @@
+.logo{
+    width: 200px;
+}
+
+ul{
+    list-style-type: none;
+    
+
+    
+}
+
+a{
+    
+    text-decoration: none;
+}
+.btn{
+    border: solid black 2px;
+    background-color: green;
+    
+   
+    
+    
+}
+
+
+.btn-primary:visited, .btn-primary:link{
+    color: white;
+    background-color: green;
+
+}
+
+.btn-secondary:visited, .btn-secondary:link{
+    color: blue;
+    background-color: white;
+
+}
+
+main{
+    text-align: center;
+    display: flex;
+   
+}
